@@ -1,5 +1,5 @@
 {
-    "name": "matchish/laravel-scout-elasticsearch",
+    "name": "matchish/laravel-scout-elasticsearch-fork",
     "description": "Search among multiple models with ElasticSearch and Laravel Scout",
     "keywords": [
         "laravel",
